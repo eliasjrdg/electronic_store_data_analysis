@@ -11,7 +11,8 @@ O projeto envolve processos de importação, processamento, limpeza e análise e
 *   *Questão 4:* Quais produtos são mais vendidos juntos?
 *   *Questão 5:* Qual produto vendeu mais?
 
-Abra no Colab para vizualiar os gráficos da biblioteca plotly
+Plots gerados pela biblioteca plotly na pasta plots.
+Ou abra no Colab para vizualiar os gráficos da biblioteca plotly.
 
 ***Sobre o Dataset***
 
